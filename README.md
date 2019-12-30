@@ -1,5 +1,8 @@
 # StarGAN
 얼굴 정확도 향상 테스트를 위한 RaFD Data Augmentation.
+데이터는 직접 모은 데이터 + CK + RaFD를 사용하였다.
+그런데 생각보다 원하는 만큼의 좋은 결과가 나오지 않았다.
+
 ![image](https://user-images.githubusercontent.com/14813279/71571971-69ab4000-2b20-11ea-980a-3ff6a35b486c.png)
 ![image](https://user-images.githubusercontent.com/14813279/71571978-7039b780-2b20-11ea-8a64-63bcb89514ec.png)
 ![image](https://user-images.githubusercontent.com/14813279/71571983-75970200-2b20-11ea-9ff4-365229a3ab44.png)
